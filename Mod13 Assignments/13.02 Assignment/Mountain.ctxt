@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=l\ w\ m
+comment0.target=Mountain(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ mountain\r\n
+comment1.params=
+comment1.target=int\ getMountain()
+numComments=2
