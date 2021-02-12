@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=item\ name
+comment0.target=void\ takeInventory(java.util.List,\ java.lang.String)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
