@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Catapult()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ type\ Catapult\r\n
+comment1.params=calculations\ rowsLength\ columnsLength\ a\ v\ g
+comment1.target=void\ calcProjectileDistance(java.lang.Integer[][],\ int,\ int,\ int,\ int,\ double)
+comment1.text=\r\n\ Accessor\ method\ to\ calculate\ the\ projectile\ distances\ (feet).\ \r\n\ @param\ calculations\ the\ array.\r\n\ @param\ rowsLength\ length\ of\ the\ rows,\r\n\ @param\ columnsLength\ length\ of\ the\ columns.\r\n\ @param\ a\ angle\ in\ degrees.\r\n\ @param\ v\ initial\ velocity\ in\ miles\ per\ hour.\r\n\ @param\ g\ the\ gravitational\ acceleration\ in\ meters\ per\ second\ per\ second.\r\n
+comment2.params=calculations\ rowsLength\ columnsLength
+comment2.target=void\ printProjectileDistance(java.lang.Integer[][],\ int,\ int)
+comment2.text=\r\n\ Accessor\ method\ to\ print\ the\ projectile\ distances.\ \r\n\ @param\ calculations\ the\ array.\r\n\ @param\ rowsLength\ length\ of\ the\ rows,\r\n\ @param\ columnsLength\ length\ of\ the\ columns.\r\n
+numComments=3
