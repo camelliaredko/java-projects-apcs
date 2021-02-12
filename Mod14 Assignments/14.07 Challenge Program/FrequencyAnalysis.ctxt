@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ textReader()
+comment1.params=text
+comment1.target=int[]\ occurrenceCounter(java.lang.String)
+comment2.params=occurrence\ text
+comment2.target=double[]\ frequencyCounter(int[],\ java.lang.String)
+comment3.params=occurrence\ freq
+comment3.target=void\ resultsTable(int[],\ double[])
+numComments=4

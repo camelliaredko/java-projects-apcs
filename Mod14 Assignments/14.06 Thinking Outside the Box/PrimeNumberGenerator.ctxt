@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=void\ setNumber(int)
+comment1.params=
+comment1.target=int\ getNumber()
+comment2.params=
+comment2.target=java.lang.String\ generatePrimeNumbers()
+comment3.params=list
+comment3.target=int\ primeCounter(java.lang.String)
+numComments=4
