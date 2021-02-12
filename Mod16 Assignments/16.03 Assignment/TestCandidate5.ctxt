@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=list
+comment1.target=void\ printVotes(Candidate[])
+comment2.params=list
+comment2.target=int\ getTotal(Candidate[])
+comment3.params=list\ find\ replace
+comment3.target=void\ replaceName(Candidate[],\ java.lang.String,\ java.lang.String)
+comment4.params=list\ find\ replace
+comment4.target=void\ replaceVotes(Candidate[],\ java.lang.String,\ int)
+comment5.params=list\ findName\ replaceName\ replaceNumVotes
+comment5.target=void\ replaceCandidate(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+comment6.params=list\ insertionPosition\ insertedName\ insertedVotes
+comment6.target=void\ insertPosition(Candidate[],\ int,\ java.lang.String,\ int)
+comment7.params=list\ findName\ insertedName\ insertedVotes
+comment7.target=void\ insertCandidate(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+comment8.params=list
+comment8.target=void\ printResults(Candidate[])
+numComments=9

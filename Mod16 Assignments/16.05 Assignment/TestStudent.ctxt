@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=list
+comment1.target=void\ printBook(java.util.List)
+comment2.params=list\ find\ replace
+comment2.target=void\ replaceName(java.util.List,\ java.lang.String,\ java.lang.String)
+comment3.params=list\ name\ quizNumber\ quizScore
+comment3.target=void\ replaceQuiz(java.util.List,\ java.lang.String,\ int,\ int)
+comment4.params=list\ findName\ replaceName\ quiz1\ quiz2\ quiz3\ quiz4\ quiz5
+comment4.target=void\ replaceStudent(java.util.List,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment5.params=list\ findName\ addName\ quiz1\ quiz2\ quiz3\ quiz4\ quiz5
+comment5.target=void\ insertStudent(java.util.List,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment6.params=list\ findName
+comment6.target=void\ deleteStudent(java.util.List,\ java.lang.String)
+comment7.params=list
+comment7.target=void\ printResults(java.util.List)
+numComments=8
