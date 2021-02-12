@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=sMiles\ eMiles\ galUsed\ thePrice
+comment0.target=AnnualFuelUse(double,\ double,\ double,\ double)
+comment1.params=
+comment1.target=void\ calcDistance()
+comment10.params=
+comment10.target=double\ getPricePerGallon()
+comment2.params=
+comment2.target=double\ getDistance()
+comment3.params=
+comment3.target=void\ calcMPG()
+comment4.params=
+comment4.target=double\ getMPG()
+comment5.params=
+comment5.target=void\ calcCost()
+comment6.params=
+comment6.target=double\ getCost()
+comment7.params=
+comment7.target=double\ getStartMiles()
+comment8.params=
+comment8.target=double\ getEndMiles()
+comment9.params=
+comment9.target=double\ getGallonsUsed()
+numComments=11
